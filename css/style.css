@@ -1,3 +1,37 @@
 nav.navbar-default {
-  background:green;
+  background:#ff981c;
+}
+
+.lineUnder {
+  border-bottom: 5px solid
+  black;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.col-text-centered{
+  text-align: center;
+}
+
+.bo {
+    border-bottom: 6px solid black;
+}
+
+.blockColourDarkGrey{
+  background-color: #e8e9eb;
+}
+
+.textColor {
+  text-color
+}
+
+body {
+  background: #2e294e;
+}
+
+head {
+  color: #011638;
 }
